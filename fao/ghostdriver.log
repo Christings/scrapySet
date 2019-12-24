@@ -1,0 +1,54 @@
+[INFO  - 2018-04-04T01:39:39.806Z] GhostDriver - Main - running on port 60928
+[INFO  - 2018-04-04T01:39:40.886Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-04-04T01:39:40.886Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T01:39:40.886Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T01:39:40.886Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0b06b5f0-37a9-11e8-b0d8-370c8e772dc4
+[ERROR - 2018-04-04T01:39:41.320Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.320Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - stack:
+  global code (http://www.fao.org/fileadmin/templates/faoweb/scripts/comm_func.js?1491832998:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.322Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.322Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - stack:
+  global code (http://www.fao.org/fileadmin/scripts/jquery/plugin/iosslider/jquery.iosslider.min.js?1363599115:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.322Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.322Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - stack:
+  global code (http://www.fao.org/fileadmin/templates/faoboot/sub-corp.js?1510582865:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.323Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - msg: Error: Bootstrap's JavaScript requires jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.323Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - stack:
+  global code (http://www.fao.org/fileadmin/templates/faoweb/boot-nav/js/bootstrap.min.js?1501680095:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.324Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.324Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - stack:
+  global code (http://www.fao.org/fileadmin/scripts/jcarousel/js/jcarousel.js?1420804036:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.326Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:41.326Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - stack:
+  global code (http://www.fao.org/fileadmin/templates/countrypro/js/geo_funcs.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:42.242Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-04-04T01:39:42.242Z] Session [0b06b5f0-37a9-11e8-b0d8-370c8e772dc4] - page.onError - stack:
+  global code (http://www.fao.org/countryprofiles/geographic-and-economic-groups/en/:125)
+
+  phantomjs://platform/console++.js:263 in error
