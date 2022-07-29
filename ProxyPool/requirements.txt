@@ -36,7 +36,7 @@ pyquery==1.4.1
 queuelib==1.5.0
 redis==3.3.11
 requests==2.22.0
-Scrapy==1.8.0
+Scrapy==2.6.2
 scrapy-redis==0.6.8
 selenium==3.141.0
 service-identity==18.1.0
